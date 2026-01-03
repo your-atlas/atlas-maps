@@ -1,0 +1,11 @@
+{
+  "id": "atlas-maps",
+  "name": "Maps",
+  "version": "1.0.0",
+  "description": "Offline maps with downloadable regions",
+  "author": "Atlas",
+  "authorUrl": "https://github.com/atlas-app",
+  "minAtlasVersion": "1.0.0",
+  "permissions": ["network", "storage", "filesystem", "core:locations"],
+  "main": "main.js"
+}
